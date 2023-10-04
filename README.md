@@ -54,6 +54,8 @@ To run this project locally, you need to have Java, PostgreSQL, and an IDE (e.g.
 3. Click "Add Student" to insert new student records.
 4. Click "Edit" next to a student to modify their details.
 5. Click "Delete" to remove a student record.
-6. Toastr notifications will appear to indicate success or failure of operations.
+6. Click "Export to PDF" to generate a PDF file with the data.
+7. Click "Export to Excel" to create an Excel file containing the data.
+8. Toastr notifications will appear to indicate success or failure of operations.
 
 ## Contributing
